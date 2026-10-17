@@ -1,6 +1,6 @@
-# Revival Cast - Releases
+# Revival Cast Pro - Releases
 
-Download hosting for **Revival Cast**, church presentation software by
+Download hosting for **Revival Cast Pro**, church presentation software by
 [Visionary Technologies Enterprise](https://www.vteofficial.com).
 
 This repository contains **release packages only**. The application's source is
@@ -10,7 +10,7 @@ maintained in a private repository and is not published here.
 
 ## Download
 
-Get Revival Cast from the official website:
+Get Revival Cast Pro from the official website:
 
 **https://revivalcast.vteofficial.com**
 
@@ -94,7 +94,7 @@ You can check manually with **Help > Check for Updates**.
 - Email: visionarytechnologiesent@gmail.com
 - Website: **https://www.vteofficial.com**
 
-Please include the version shown in **Help > About Revival Cast**. If the
+Please include the version shown in **Help > About Revival Cast Pro**. If the
 application closed unexpectedly, the log is at:
 
 ```
@@ -103,7 +103,7 @@ application closed unexpectedly, the log is at:
 
 ## Licence
 
-Revival Cast is proprietary software owned by Visionary Technologies
+Revival Cast Pro is proprietary software owned by Visionary Technologies
 Enterprise. Use is governed by the end user licence agreement included with the
 application, which is presented during installation and installed to:
 
